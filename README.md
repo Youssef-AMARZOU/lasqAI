@@ -309,4 +309,4 @@ Définissez les variables d'environnement dans le dashboard Vercel :
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+ Voir le fichier `LICENSE` pour plus de détails.
