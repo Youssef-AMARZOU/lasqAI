@@ -125,11 +125,9 @@ Une plateforme **unifiée** offrant :
 
 ## 📸 Captures d'écran
 
-*(Ajoute ici tes screenshots)*
-
 | Page d'accueil | Dashboard | Résumé |
-|:--------------:|:---------:|:------:|
-| `![Accueil](screenshots/home.png)` | `![Dashboard](screenshots/dashboard.png)` | `![Résumé](screenshots/summary.png)` |
+| :---: | :---: | :---: |
+| <img src="screenshots/home.png" width="100%" alt="Home"> | <img src="screenshots/dashboard.png" width="100%" alt="Dashboard"> | <img src="screenshots/summary.png" width="100%" alt="Résumé"> |
 
 ---
 
